@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "lge-kernel-kbc_geehdc_kddi",
+   "target_path": "kernel/lge/kbc_geehdc_kddi"
+ },
+ {
+   "repository": "android_device_lge_lgl21-common",
+   "target_path": "device/lge/lgl21-common"
+ },
+ {
+   "repository": "android_device_lge_gproj-common-lgl21",
+   "target_path": "device/lge/gproj-common-lgl21"
+ }
+]
